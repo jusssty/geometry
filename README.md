@@ -1,2 +1,2 @@
 # geometry
-n this project, I created 3 geometric shape classes: square, circle, and circle in a square, derived from a Position class. It solves the "diamond problem" (inheritance from shared ancestors) and includes a simple text interface to demonstrate functionality.
+В данном проекте я реализовал 3 класса геометрических фигур: квадрат, окружность и окружность в квадрате. Также, я реализовал вспомогательный класс позиция, от которого были произведены остальные. В данном проекте наглядно реализовано решение проблемы "алмаза смерти" - наследование класса от родителей, которые имеют общего предка. Реализован простейший текстовый интерфейс, отображающий работу программы.
